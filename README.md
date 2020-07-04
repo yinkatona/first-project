@@ -1,2 +1,3 @@
-# first-projet
-This is my first major web dev project...
+# tindog
+This project was designed to promote the love search between dog... from now on, dog lovers need not to find a march
+
